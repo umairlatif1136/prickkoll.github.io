@@ -1,0 +1,47 @@
+.funkar{
+    text-align: center;
+    
+    
+}
+.ali{
+   
+  column-gap: 20px;
+    
+  align-items: center;
+  display: flex;
+  width:auto;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 300px;      
+  text-align: center;
+  padding: 10px 20px;
+
+        
+  
+  background-color:rgb(165, 187, 179);
+}
+       
+    
+
+.backi{
+  
+    column-count: 3;
+    text-align: center;
+    
+
+}
+.back{
+  width: fit-content;
+  font: Courier New (Courier);
+}
+@media screen and (max-width:756px){
+  
+  .backi{
+    column-count: 1;
+    padding: 20px 40px;
+  }
+
+  .ali{
+    margin-bottom: 16px;
+  }
+}

@@ -1,0 +1,26 @@
+.sign{
+   align-items: center;
+ margin-left: 100px;
+}
+.sin{
+   align-content: center;
+}
+.betn{
+   background-color: #043804; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 16px ;
+  align-items: center;
+}
+@media screen and( min-width = 1000px) {
+   .sign{
+      background-color: black;
+      margin-left: 500 px;
+   }
+   
+}

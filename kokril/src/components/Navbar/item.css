@@ -1,0 +1,14 @@
+.title1{
+    text-align: left;
+    
+}
+.login1{
+    text-align: right;
+}
+.learn1{
+    text-align: right;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}

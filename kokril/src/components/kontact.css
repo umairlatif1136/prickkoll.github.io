@@ -1,0 +1,24 @@
+.kontact{
+    text-align: center;
+    
+}
+input[type=text] {
+    border: none;
+    width: 80%;
+    border-bottom: 2px solid rgb(3, 3, 3);
+  }
+.kontact1{
+    column-count: 2;
+    margin-top: 40px;
+}
+.button{
+background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+}
